@@ -11,7 +11,7 @@ The program uses `argparse` library to get a search from the command line, `requ
 
 ## Arguments
 
-Specify the desired item into the command line. For example, add "pens" to the end of the `ebay-dl.py` file path as such:
+Specify the desired item into the command line. For example, add 'pen' to the end of the `ebay-dl.py` file path as such:
 
 ```$ python3 ebay-dl.py pen``` 
 
