@@ -11,6 +11,6 @@ The program uses `argparse`, `requests`, `Beautiful Soup`, and `json`.
 
 ## Files Generated 
 
-I generated 3 different json files (pens.json, toys.json and water_park.json)
+I generated 3 different json files (pens.json, toys.json and water_park.json) that are uploaded to the repository. 
 
 
