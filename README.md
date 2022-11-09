@@ -7,7 +7,7 @@ This is the [link](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/proj
 
 This `ebay-dl.py` file contians the `name` of ebay items. It also contains the `price` of these items. Some other tags include:`free returns`, `items sold`, `status`, and `shipping`. 
 
-The program uses `argparse`, `requests`, `Beautiful Soup`, and `json`. 
+The program uses `argparse` library to get a search from the command line, `requests` library to download first 10 webpages from the search, `Beautiful Soup` or `bs4` to extract all of the items, and a `json` library to save the list as a `json` file. 
 
 ## Arguments
 
